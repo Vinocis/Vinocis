@@ -2,8 +2,8 @@
 
 Meu nome é Vinicius Alexandre e tenho 19 anos!
 
-- 🔭 Atualmente não estou trabalhando como desenvolvedor mas tô estudando bastante pra mudar essa realidade. :smile:
-- 🌱 Atualmente estou aprendendo Kotlin.
+- 🔭 Atualmente não trabalho como desenvolvedor mas tô estudando bastante pra mudar essa realidade. :smile:
+- 🌱 Atualmente estou aprendendo Kotlin e Desenvolvimento mobile.
 - 👯 Procuro colaborar com projetos Android Nativo com Kotlin.
 - 🤔 Preciso de ajuda com tudo sobre desenvolvimento android nativo, praticamente. :sweat_smile:
 - 📫 Contato: vinicius.alexandre68@gmail.com
