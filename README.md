@@ -1,10 +1,8 @@
 ### Opa bão? :handshake:
 
-Meu nome é Vinicius Alexandre e tenho 20 anos!
+Meu nome é Vinicius Alexandre e tenho 21 anos!
 
-- 🔭 Atualmente não trabalho como desenvolvedor mas tô estudando bastante pra mudar essa realidade. :smile:
-- 🌱 Atualmente aprendendo Elixir e Phoenix.
+- 🔭 Atualmente trabalhando como desenvolvedor backend com Elixir.
+- 🌱 Aprendendo sobre testes e OTP.
 - 📫 Contato: vinicius.alexandre68@gmail.com
 - 😄 Pronomes: Ele/Dele.
-- ⚡ Fun fact: Café ataca minha gastrite.
-<!-- - 👯 Procuro colaborar com projetos web, de preferência backend.-->
